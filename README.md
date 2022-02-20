@@ -22,7 +22,8 @@ Battleship Game
  
  # Menu :
  
-  
+  ![Capture d’écran 2022-02-20 140153](https://user-images.githubusercontent.com/79254928/154843901-98140609-d5c8-4b57-8b6b-bcfff579e135.png)
+
    # Video :
    
 https://user-images.githubusercontent.com/79254928/154843746-ab368052-53c2-4834-aa36-06ba9d4d1ef4.mp4
